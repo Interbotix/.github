@@ -1,0 +1,19 @@
+# Interbotix - Trossen Robotics
+
+<a href="https://www.trossenrobotics.com/" rel="external" target="_blank">![A graphic with the Interbotix name and logo in front of two X-Series manipulators.](https://www.trossenrobotics.com/shared/github/organization_header.png)</a>
+
+Interbotix-Trossen Robotics provides open source robotic hardware and software for education, hobby, and professional use. Here on GitHub, we store our open source code repositories that allow you to get you running example projects on your robot in under an hour. We also host a [**Discussions forum**](https://github.com/Interbotix/.github/discussions) where we interact with our community, and ask and answer questions they may have.
+
+# Platforms
+
+<a href="https://www.trossenrobotics.com/robotic-arms/ros-research-arms.aspx" rel="external" target="_blank">![](https://www.trossenrobotics.com/shared/github/manipulators.png)</a>
+
+<a href="https://www.trossenrobotics.com/ros-rovers-turtlebot.aspx" rel="external" target="_blank">![](https://www.trossenrobotics.com/shared/github/rover_banner.png)</a>
+
+<a href="https://www.trossenrobotics.com/Quadruped-Robot-Hexapod-Robot-Kits.aspx" rel="external" target="_blank">![](https://www.trossenrobotics.com/shared/github/crawlers.png)</a>
+
+<a href="https://www.trossenrobotics.com/c/robot-turrets.aspx" rel="external" target="_blank">![](https://www.trossenrobotics.com/shared/github/turrets.png)</a>
+
+# Robotics in under an hour
+
+<a href="https://www.trossenrobotics.com/" rel="external" target="_blank">![A graphic with a banner and four panels. The banner reads "Robotics Under An Hour". The first panel reads "Unbox and Hardware Setup" with a statement that it should take 15 minutes to complete this step. The second panel reads "Install ROS Packages" with a statement that it should take 15 minutes to complete this step. The third panel reads "Load an Open Source Project" with a statement that it should take 5 minutes to complete this step. The fourth and final panel reads "Start Developing!" with a thumbs-up.](https://www.trossenrobotics.com/shared/github/ros_under_hour_extended.png)</a>
