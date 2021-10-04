@@ -6,13 +6,13 @@ Interbotix-Trossen Robotics provides open source robotic hardware and software f
 
 # Platforms
 
-<a href="https://www.trossenrobotics.com/robotic-arms/ros-research-arms.aspx" rel="external" target="_blank">![](https://www.trossenrobotics.com/shared/github/manipulators.png)</a>
+<a href="https://github.com/Interbotix/interbotix_ros_manipulators" rel="external" target="_blank">![](https://www.trossenrobotics.com/shared/github/manipulators.png)</a>
 
-<a href="https://www.trossenrobotics.com/ros-rovers-turtlebot.aspx" rel="external" target="_blank">![](https://www.trossenrobotics.com/shared/github/rover_banner.png)</a>
+<a href="https://github.com/Interbotix/interbotix_ros_rovers" rel="external" target="_blank">![](https://www.trossenrobotics.com/shared/github/rover_banner.png)</a>
 
-<a href="https://www.trossenrobotics.com/Quadruped-Robot-Hexapod-Robot-Kits.aspx" rel="external" target="_blank">![](https://www.trossenrobotics.com/shared/github/crawlers.png)</a>
+<a href="https://github.com/Interbotix/interbotix_ros_crawlers" rel="external" target="_blank">![](https://www.trossenrobotics.com/shared/github/crawlers.png)</a>
 
-<a href="https://www.trossenrobotics.com/c/robot-turrets.aspx" rel="external" target="_blank">![](https://www.trossenrobotics.com/shared/github/turrets.png)</a>
+<a href="https://github.com/Interbotix/interbotix_ros_turrets" rel="external" target="_blank">![](https://www.trossenrobotics.com/shared/github/turrets.png)</a>
 
 # Robotics in under an hour
 
