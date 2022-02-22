@@ -6,7 +6,7 @@ Interbotix-Trossen Robotics provides open source robotic hardware and software f
 
 We also have a **GitHub Discussions forum** where we interact with our community, show off useful and interesting projects, and answer questions they may have.
 
-<h1 style="text-align:center;"><a href="https://github.com/Interbotix/.github/discussions">Go To Interbotix Discussions</a></h1>
+<p align="center" style="font-size:40px"><a href="https://github.com/Interbotix/.github/discussions">Go To Interbotix Discussions</a></p>
 
 <hr/>
 
