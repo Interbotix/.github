@@ -2,7 +2,13 @@
 
 <a href="https://www.trossenrobotics.com/" rel="external" target="_blank">![A graphic with the Interbotix name and logo in front of two X-Series manipulators.](https://www.trossenrobotics.com/shared/github/organization_header.png)</a>
 
-Interbotix-Trossen Robotics provides open source robotic hardware and software for education, hobby, and professional use. Here on GitHub, we store our open source code repositories that allow you to get you running example projects on your robot in under an hour. We also host a [**Discussions forum**](https://github.com/Interbotix/.github/discussions) where we interact with our community, and ask and answer questions they may have.
+Interbotix-Trossen Robotics provides open source robotic hardware and software for education, hobby, and professional use. Here on GitHub, we store our open source code repositories that allow you to get you running example projects on your robot in **under an hour**. 
+
+We also have a **GitHub Discussions forum** where we interact with our community, show off useful and interesting projects, and answer questions they may have.
+
+<h1 style="text-align:center;"><a href="https://github.com/Interbotix/.github/discussions">Go To Interbotix Discussions</a></h1>
+
+<hr/>
 
 # Platforms
 
