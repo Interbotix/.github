@@ -2,11 +2,12 @@
 
 ## Supported Versions
 
-| ROS Distro | Supported          |
-| ---------- | ------------------ |
-| noetic     | :white_check_mark: |
-| melodic    | :white_check_mark: |
-| kinetic    | :x:                |
+| ROS Distro      | Manipulators       | Rovers             | Turrets            | Crawlers           |
+| --------------- | :----------------: | :----------------: | :----------------: | :----------------: |
+| `ROS2 Galactic` | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| `ROS1 Noetic`   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| `ROS1 Melodic`  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| `ROS1 Kinetic`  | :x:                | :x:                | :x:                | :x:                |
 
 ## Reporting a Vulnerability
 
