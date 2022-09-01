@@ -2,12 +2,14 @@
 
 ## Supported Versions
 
-| ROS Distro      | Manipulators       | Rovers             | Turrets            | Crawlers           |
-| --------------- | :----------------: | :----------------: | :----------------: | :----------------: |
-| `ROS2 Galactic` | :heavy_check_mark: | :x:                | :x:                | :x:                |
-| `ROS1 Noetic`   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| `ROS1 Melodic`  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| `ROS1 Kinetic`  | :x:                | :x:                | :x:                | :x:                |
+| ROS Distro       | Manipulators       | Rovers             | Turrets            | Crawlers           |
+| ---------------- | :----------------: | :----------------: | :----------------: | :----------------: |
+| `ROS 2 Rolling`  | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| `ROS 2 Humble`   | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| `ROS 2 Galactic` | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| `ROS 1 Noetic`   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| `ROS 1 Melodic`  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| `ROS 1 Kinetic`  | :x:                | :x:                | :x:                | :x:                |
 
 ## Reporting a Vulnerability
 
